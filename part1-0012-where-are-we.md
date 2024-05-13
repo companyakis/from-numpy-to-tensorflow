@@ -6,6 +6,6 @@
 
 4- Back Propagation and Update Weights
 
-5- Find Min Error or Max Epoch
+5- Repeat these steps... Find Min Error or Max Epoch...
 
 Remember => 1 Epoch = Feed Forward + Back Propagation
