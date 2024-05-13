@@ -2,7 +2,7 @@
 
 2- Prediction
 
-3- Calculate Erroe
+3- Calculate Error
 
 4- Back Propagation and Update Weights
 
