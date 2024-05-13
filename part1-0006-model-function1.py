@@ -13,7 +13,7 @@
 
 """
 
-def weight_inits(min_val, max_val, number_of_hidden_layer_nodes, number_of_input_features):
+def weight_inits(min_val, max_val, number_of_input_features, number_of_hidden_layer_nodes):
 
   pass
 
