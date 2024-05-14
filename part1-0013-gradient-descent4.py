@@ -40,4 +40,4 @@ for epoch in range(10):
 
   model_w2_l.append(model_weights[1])
 
-  error_l.append(error)
+  error_l.append(model_output - np.dot(model_inputs, model_weights))
