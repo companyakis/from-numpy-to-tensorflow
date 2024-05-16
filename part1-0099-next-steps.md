@@ -1,0 +1,3 @@
+# We will cover TensorFlow, CNN and RNN... 
+
+## A rolling stone gathers no mosss
