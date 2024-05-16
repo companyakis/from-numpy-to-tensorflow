@@ -1,6 +1,6 @@
 # input layer
 
-model.add(tf.keras.layers.Input(shape = (2, 0)))
+model.add(tf.keras.layers.Input(shape = (2, )))
 
 # hidden layers
 
