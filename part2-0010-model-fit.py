@@ -6,6 +6,8 @@ model.fit(
 )
 
 """
+batch_size = 32 => 32 * 312 + 16 = 10000
+
 Epoch 1/20
 313/313 [==============================] - 1s 2ms/step - loss: 8243.3262 - mean_squared_error: 8243.3262
 Epoch 2/20
