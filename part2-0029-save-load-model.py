@@ -5,13 +5,7 @@ load_price_pred_model = tf.keras.models.load_model("final_house_price_prediction
 print(load_price_pred_model.summary())
 
 """
-16]
-3s
-price_pred_model.save("final_house_price_prediction_model")
 
-load_price_pred_model = tf.keras.models.load_model("final_house_price_prediction_model")
-
-print(load_price_pred_model.summary())
 Model: "sequential_1"
 _________________________________________________________________
  Layer (type)                Output Shape              Param #   
