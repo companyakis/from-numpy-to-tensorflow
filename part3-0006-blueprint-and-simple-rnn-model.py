@@ -1,5 +1,5 @@
 """
-let's create our first RNN simple model, but before we should explain out blueprint
+let's create our first RNN simple model, but before we should explain our blueprint
 
 model -> Keras Sequential
 input layer -> Embedding
