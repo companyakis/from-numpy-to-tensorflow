@@ -1,0 +1,3 @@
+#cnn_model.add(tf.keras.layers.AveragePooling2D(2, 2)) # why 2D? Pic dimension...
+
+cnn_model.add(tf.keras.layers.MaxPool2D(2, 2))
