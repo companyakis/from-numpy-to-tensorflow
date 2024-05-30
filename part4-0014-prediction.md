@@ -1,0 +1,3 @@
+A deer...
+
+![image](https://github.com/companyakis/from-numpy-to-tensorflow/assets/77589867/cfe87616-806f-46a9-a424-90d8c057d863)
