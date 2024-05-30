@@ -1,0 +1,26 @@
+Epoch 1/10
+1172/1172 [==============================] - ETA: 0s - loss: 1.4258 - accuracy: 0.4920
+Epoch 1: val_loss improved from inf to 1.37822, saving model to cnn_best_model
+1172/1172 [==============================] - 166s 140ms/step - loss: 1.4258 - accuracy: 0.4920 - val_loss: 1.3782 - val_accuracy: 0.5220
+Epoch 2/10
+1172/1172 [==============================] - ETA: 0s - loss: 0.9955 - accuracy: 0.6480
+Epoch 2: val_loss improved from 1.37822 to 1.28439, saving model to cnn_best_model
+1172/1172 [==============================] - 177s 151ms/step - loss: 0.9955 - accuracy: 0.6480 - val_loss: 1.2844 - val_accuracy: 0.5631
+Epoch 3/10
+1172/1172 [==============================] - ETA: 0s - loss: 0.6948 - accuracy: 0.7589
+Epoch 3: val_loss improved from 1.28439 to 1.09764, saving model to cnn_best_model
+1172/1172 [==============================] - 171s 146ms/step - loss: 0.6948 - accuracy: 0.7589 - val_loss: 1.0976 - val_accuracy: 0.6449
+Epoch 4/10
+1172/1172 [==============================] - ETA: 0s - loss: 0.3763 - accuracy: 0.8703
+Epoch 4: val_loss did not improve from 1.09764
+1172/1172 [==============================] - 164s 140ms/step - loss: 0.3763 - accuracy: 0.8703 - val_loss: 1.9481 - val_accuracy: 0.5358
+Epoch 5/10
+1172/1172 [==============================] - ETA: 0s - loss: 0.2022 - accuracy: 0.9318
+Epoch 5: val_loss did not improve from 1.09764
+1172/1172 [==============================] - 173s 147ms/step - loss: 0.2022 - accuracy: 0.9318 - val_loss: 2.6538 - val_accuracy: 0.4380
+Epoch 6/10
+1172/1172 [==============================] - ETA: 0s - loss: 0.1401 - accuracy: 0.9533
+Epoch 6: val_loss did not improve from 1.09764
+1172/1172 [==============================] - 193s 165ms/step - loss: 0.1401 - accuracy: 0.9533 - val_loss: 1.7129 - val_accuracy: 0.6210
+Epoch 6: early stopping
+<keras.src.callbacks.History at 0x7fa6165ea890>
